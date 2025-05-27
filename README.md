@@ -16,7 +16,7 @@ Adicionado validações nos 5 sites !
 - 🔒 Validações e Segurança
 - 🎯 Funções e Modularização
 
-## Acesse aqui os desafios feitos de lógica:
+## <a href="https://leandrosilvan.github.io/praticando-logica/">Acesse aqui<a> os desafios feitos de lógica:
 - <a href="sorteador-numeros/index.html">Sorteador de Números 🎲</a> - Gere números aleatórios dentro de um intervalo definido, garantindo que não haja repetições indesejadas.
 - <a href="alugames/index.html">AluGames 🎮</a> Gerencie sua coleção de jogos, alugando e devolvendo jogos
 - <a href="carrinho-compras/index.html">Carrinho de Compras 🛒</a> Adicione e remova produtos dinamicamente, veja o cálculo automático de valores
@@ -26,5 +26,4 @@ Adicionado validações nos 5 sites !
 ## Feito por:
 
 ### Leandro Silva
-
 ### Linkedin: https://www.linkedin.com/in/leandro-silva-do-nascimento/
