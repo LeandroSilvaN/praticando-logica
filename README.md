@@ -26,4 +26,4 @@ Adicionado validações nos 5 sites !
 ## Feito por:
 
 ### Leandro Silva
-### Linkedin: https://www.linkedin.com/in/leandro-silva-do-nascimento/
+### <a href="https://www.linkedin.com/in/leandro-silva-do-nascimento/">Meu Linkedin</a>
